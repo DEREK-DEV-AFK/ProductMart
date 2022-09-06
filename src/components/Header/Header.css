@@ -1,0 +1,25 @@
+.headerMain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+.main-header {
+    background-color: rgb(225 225 225);
+    width: 70%;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 5px 10px #f5f5f5;
+}
+/* .sub-header {
+    margin: 1%;
+} */
+
+.icon {
+    margin-top: 10px;
+    font-size: large;
+}
